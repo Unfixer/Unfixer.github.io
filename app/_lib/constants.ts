@@ -132,7 +132,7 @@ export const tooltipItems = [
   {
     id: 1,
     name: "Adrish Neogi",
-    designation: "You have exceeded my expectations for your early completion of the project and quality of work",
+    designation: "Efficient and succinct!",
     image: "/imgs/avatars/Adrishneogi.jpeg",
   },
  
@@ -145,7 +145,7 @@ export const testimonialItems = [
     name: "Adrish Neogi",
     proffesion: "BBA student",
     description:
-      "“You have exceeded my expectations for your early completion of the project and quality of work”",
+      "“You have exceeded our expectations for your early completion of the project and quality of work, one of the best experiences I have ever had”",
     image: "/imgs/avatars/Adrishneogi.jpeg",
   },
 ];
